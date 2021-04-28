@@ -1,6 +1,6 @@
 ![Image](https://raw.githubusercontent.com/CoolRPG/CoolRPG/default/CoolRPGlogo.png)
 
-[Invite link](https://discord.bots.gg/bots/815114193292230656)
+[Invite link](https://top.gg/bot/815114193292230656)
 
 CoolRPG is a new economy discord bot that has immediate support facility.
 To get support go to this [Discord Server](https://dsc.gg/coolrpg)
